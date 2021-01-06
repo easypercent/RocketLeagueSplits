@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>1593</X>
+  <X>1621</X>
   <Y>0</Y>
-  <VerticalWidth>327</VerticalWidth>
-  <VerticalHeight>354</VerticalHeight>
+  <VerticalWidth>299</VerticalWidth>
+  <VerticalHeight>315</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -85,17 +85,17 @@
         <AfterTimesColor>FFFFFFFF</AfterTimesColor>
         <OverrideTimesColor>False</OverrideTimesColor>
         <ShowBlankSplits>True</ShowBlankSplits>
-        <LockLastSplit>False</LockLastSplit>
-        <IconSize>24</IconSize>
-        <IconShadows>True</IconShadows>
-        <SplitHeight>3.6</SplitHeight>
+        <LockLastSplit>True</LockLastSplit>
+        <IconSize>26</IconSize>
+        <IconShadows>False</IconShadows>
+        <SplitHeight>4</SplitHeight>
         <CurrentSplitGradient>Vertical</CurrentSplitGradient>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>01FFFFFF</BackgroundColor2>
         <BackgroundGradient>Alternating</BackgroundGradient>
         <SeparatorLastSplit>True</SeparatorLastSplit>
         <DeltasAccuracy>Hundredths</DeltasAccuracy>
-        <DropDecimals>True</DropDecimals>
+        <DropDecimals>False</DropDecimals>
         <OverrideDeltasColor>False</OverrideDeltasColor>
         <DeltasColor>FFFFFFFF</DeltasColor>
         <Display2Rows>False</Display2Rows>
@@ -106,8 +106,8 @@
             <Version>1.5</Version>
             <Name>+/-</Name>
             <Type>Delta</Type>
-            <Comparison>Current Comparison</Comparison>
-            <TimingMethod>Current Timing Method</TimingMethod>
+            <Comparison>Personal Best</Comparison>
+            <TimingMethod>Real Time</TimingMethod>
           </Settings>
           <Settings>
             <Version>1.5</Version>
